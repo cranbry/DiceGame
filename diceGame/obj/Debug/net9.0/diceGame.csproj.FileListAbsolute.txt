@@ -1,0 +1,14 @@
+/Users/mouad/Documents/diceGame/diceGame/obj/Debug/net9.0/diceGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mouad/Documents/diceGame/diceGame/obj/Debug/net9.0/diceGame.AssemblyInfoInputs.cache
+/Users/mouad/Documents/diceGame/diceGame/obj/Debug/net9.0/diceGame.AssemblyInfo.cs
+/Users/mouad/Documents/diceGame/diceGame/obj/Debug/net9.0/diceGame.csproj.CoreCompileInputs.cache
+/Users/mouad/Documents/diceGame/diceGame/bin/Debug/net9.0/diceGame
+/Users/mouad/Documents/diceGame/diceGame/bin/Debug/net9.0/diceGame.deps.json
+/Users/mouad/Documents/diceGame/diceGame/bin/Debug/net9.0/diceGame.runtimeconfig.json
+/Users/mouad/Documents/diceGame/diceGame/bin/Debug/net9.0/diceGame.dll
+/Users/mouad/Documents/diceGame/diceGame/bin/Debug/net9.0/diceGame.pdb
+/Users/mouad/Documents/diceGame/diceGame/obj/Debug/net9.0/diceGame.dll
+/Users/mouad/Documents/diceGame/diceGame/obj/Debug/net9.0/refint/diceGame.dll
+/Users/mouad/Documents/diceGame/diceGame/obj/Debug/net9.0/diceGame.pdb
+/Users/mouad/Documents/diceGame/diceGame/obj/Debug/net9.0/diceGame.genruntimeconfig.cache
+/Users/mouad/Documents/diceGame/diceGame/obj/Debug/net9.0/ref/diceGame.dll
