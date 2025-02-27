@@ -57,5 +57,33 @@ namespace DiceGame
             }
             return false;
         }
+
+        public int[] CreateArrUniqueRolls(int size)
+        {
+            int[] UniqueRollsArr = new int[size];
+            int count = 0;
+
+            while (count < size)
+            {
+                int roll = Roll();
+                bool alreadyExists = false;
+
+                for (int i = 0; i < count; i++)
+                {
+                    if (UniqueRollsArr[i] == roll)
+                    {
+                        alreadyExists = true;
+                        break;
+                    }
+                }
+
+                if (!alreadyExists)
+                {
+                    UniqueRollsArr[count] = roll;
+                    count++;
+                }
+            }
+            return UniqueRollsArr;
+        }
     }
 }

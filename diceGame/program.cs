@@ -77,5 +77,15 @@ class Program
         {
             Console.WriteLine($"Number {number} is rolled by dice 2");
         }
+
+        // Method will create an array of size 6 and roll until filled with 6 unique numbers.
+        int[] uniqueRolls = dice1.CreateArrUniqueRolls(6);
+
+        Console.WriteLine("Unique rolls are: ");
+
+        foreach (int roll in uniqueRolls)
+        {
+            Console.WriteLine(" " + roll);
+        }
     }
 }
