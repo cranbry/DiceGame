@@ -27,7 +27,7 @@ namespace DiceGame
         // }
 
         // Constructor:
-        public Dice(int sides)
+        public Dice(int sides = 6)
         {
             numSides = sides;
             currentSide = 1;
@@ -45,5 +45,17 @@ namespace DiceGame
             return currentSide;
         }
 
+        // method using 
+        public bool ContainsNumber(int[] trackingTopArr, int number)
+        {
+            foreach (int side in trackingTopArr)
+            {
+                if (side == number)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
     }
 }
