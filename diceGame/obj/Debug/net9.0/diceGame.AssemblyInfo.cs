@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("diceGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2b17c7d46a616759048f81900439a6ac81a297a")]
 [assembly: System.Reflection.AssemblyProductAttribute("diceGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("diceGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

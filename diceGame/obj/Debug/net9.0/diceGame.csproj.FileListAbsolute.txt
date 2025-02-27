@@ -12,3 +12,4 @@
 /Users/mouad/Documents/diceGame/diceGame/obj/Debug/net9.0/diceGame.pdb
 /Users/mouad/Documents/diceGame/diceGame/obj/Debug/net9.0/diceGame.genruntimeconfig.cache
 /Users/mouad/Documents/diceGame/diceGame/obj/Debug/net9.0/ref/diceGame.dll
+/Users/mouad/Documents/diceGame/diceGame/obj/Debug/net9.0/diceGame.sourcelink.json
